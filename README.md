@@ -1,3 +1,6 @@
+![Uday Kalyan Logo](./name-title.svg)
+
+
 # 👋 Hi, I'm Uday Kalyan!
 
 I'm a passionate **Software Developer** who loves building impactful applications and seamless user experiences.
