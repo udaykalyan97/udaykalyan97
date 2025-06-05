@@ -1,4 +1,4 @@
-![Uday Kalyan Logo](./name-title.svg)
+![Uday Kalyan Logo](./uday-kalyan-logo.svg)
 
 
 # 👋 Hi, I'm Uday Kalyan!
